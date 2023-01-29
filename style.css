@@ -3,7 +3,7 @@
 h2,
 h3,
 h4 {
-  font-family: Inter, sans-serif;
+  font-family: Inika, sans-serif;
   margin: 0;
 }
 
@@ -41,7 +41,7 @@ h4 {
 }
 
 p {
-  font-family: Inika, sans-serif;
+  font-family: Inter, sans-serif;
   font-size: 1em;
   line-height: 1.5em;
   padding: 0.5em 0;
@@ -103,7 +103,7 @@ html {
 }
 
 body {
-  font-family: Inika, sans-serif;
+  font-family: Inter, sans-serif;
   font-size: 85%;
   color: #1a1831;
   background-color: #20615b;
